@@ -23,3 +23,17 @@
   line-height: 28px;
   margin-bottom: 16px;
 }
+
+.link {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 8px 16px;
+  color: #fff;
+  background-color: #0d6efd;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: #0b5ed7;
+}
